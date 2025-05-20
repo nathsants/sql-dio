@@ -41,4 +41,5 @@ Após a instância ser criada, acesse o banco de dados por meio do Azure Portal 
 Para se conectar ao banco, você precisará do nome do servidor, usuário e senha definidos durante a criação.
 
 Essa são as etapas basicas para criar um banco de dados sql no azure.
+Imagens dos passos em anexo.
 
